@@ -1,0 +1,3 @@
+# The Hottest Topics in Machine Learning
+
+Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking works are published. In this project from [Datacamp](https://learn.datacamp.com/projects/158), a large collection of NIPS research papers from the past decade is analyzed to discover the latest trends in machine learning. [Latent Dirichlet Allocation (LDA)](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf?TB_iframe=true&width=370.8&height=658.8) is used to find the most significant topics in the dataset. 
