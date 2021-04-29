@@ -1,0 +1,5 @@
+# Classify Song Genres from Audio Data
+
+In this project from [Datacamp](https://learn.datacamp.com/projects/449), a classifier is trained to distinguish between the two genres based only on track information derived from [Echonest](https://twitter.com/echonest) (now part of [Spotify](https://www.spotify.com/us/)), using a dataset comprised of songs of two music genres - Hip-Hop and Rock. Pandas and seaborn libraries in Python are used for subsetting the data, aggregating information, and creating plots.
+
+Next, packages from scikit-learn library is used to predict whether a song's genre can be accurately classified based on features such as danceability, energy, acousticness, tempo, etc. Implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth are used in the process.
